@@ -1,6 +1,6 @@
-### <h1 align="center">Hi 👋, I'm Anshusingh Rajput</h1>
+### <h1 align="center">Hi there 👋, I'm Anshusingh Rajput</h1>
 
-- 🌱 I’m currently learning **Devops, Software Testing**
+- 🌱 I’m currently learning **Software Testing, DevOps**
 
 - 📫 How to reach me **rajputanshu706@gmail.com**
 
