@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanshuGit.RanshuGit&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋, I'm Anshusingh Rajput</h1>
 
 ###
@@ -33,7 +27,7 @@
 ###
 
 <p align="left">- 📚 I'm currently learning Software Testing, DevOps</p>
-<p align="left">- 📫 How to reach me [rajputanshu706@gmail.com](mailto:rajputanshu706@gmail.com)</p>
+<p align+"left">- 📫 How to reach me rajputanshu706@gmail.com</p>
 
 ###
 
@@ -70,7 +64,6 @@
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RanshuGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
