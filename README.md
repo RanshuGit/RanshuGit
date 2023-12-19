@@ -32,8 +32,8 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Software Testing, DevOps<br>- 📫 How to reach me rajputanshu706@gmail.com</p>
-
+<p align="left">- 📚 I'm currently learning Software Testing, DevOps</p>
+📫 How to reach me **rajputanshu706@gmail.com**
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
