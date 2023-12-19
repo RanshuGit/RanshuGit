@@ -33,7 +33,7 @@
 ###
 
 <p align="left">- 📚 I'm currently learning Software Testing, DevOps</p>
-<p align="left">- 📫 How to reach me (rajputanshu706@gmail.com)</p>
+<p align="left">- 📫 How to reach me [rajputanshu706@gmail.com]
 
 ###
 
