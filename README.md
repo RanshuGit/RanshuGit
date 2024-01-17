@@ -1,6 +1,6 @@
-<div align="center">
+###
+
 <h1 align="center">Hey there 👋, I'm Anshusingh Rajput</h1>
-</div>
 
 ###
 
