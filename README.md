@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="(https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
