@@ -8,7 +8,7 @@
 
 ###
 
-- 🌱 I’m currently learning **DevOps🚀**
+- 🌱 I’m currently learning **Software Testing, DevOps🚀**
 
 - 📫 How to reach me **rajputanshu706@gmail.com**
 
